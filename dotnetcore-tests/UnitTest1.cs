@@ -11,7 +11,7 @@ namespace dotnetcore_tests
         [TestMethod]
         public void About()
         {
-          // Arrange
+          // Arrange again
           HomeController controller = new HomeController();
 
           // Act
